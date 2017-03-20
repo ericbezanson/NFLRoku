@@ -1,0 +1,222 @@
+            {
+                "division" : [
+                {
+                    "name" : "AFC East",
+                    "afc-east" : {
+                        "teams" : [
+                        {
+                            "patriots" : {
+                                "name" : "New Endland Patriots",
+                                "img" : "pkg:/images/nfl/patriots.jpg",
+                                "record" : "14 - 2"
+                            },
+                            "dolphins" : {
+                                "name" : "Miami Dolphins",
+                                "img" : "pkg:/images/nfl/dolphins.jpg",
+                                "record" : "10 - 6"
+                            },
+                            "bills" : {
+                                "name" : "Buffalo Bills",
+                                "img" : "pkg:/images/nfl/bills.jpg",
+                                "record" : "7 - 9" 
+                            },
+                            "jets" : {
+                                "name" : "New York Jets",
+                                "img" : "pkg:/images/nfl/jets.jpg",
+                                "record" : "5 - 11"
+                            }
+                        }
+                    ]
+                },                
+                    "name" : "AFC West",
+                    "afc-west" : {
+                        "teams" : [
+                        {
+                            "chiefs" : {
+                                "name" : "Kansas City Chiefs",
+                                "img" : "pkg:/images/nfl/chiefs.jpg",
+                                "record" : "12 - 4"
+                            },
+                            "raiders" : {
+                                "name" : "Oakland Raiders",
+                                "img" : "pkg:/images/nfl/raiders.jpg",
+                                "record" : "12 - 4"
+                            },
+                            "broncos" : {
+                                "name" : "Denver Broncos",
+                                "img" : "pkg:/images/nfl/broncos.jpg",
+                                "record" : "9 - 7" 
+                            },
+                            "chargers" : {
+                                "name" : "San Diego Chargers",
+                                "img" : "pkg:/images/nfl/chargers.jpg",
+                                "record" : "5 - 11"
+                            }
+                        }
+                    ]
+                },
+                    "name" : "AFC North",
+                    "afc-north" : {
+                        "teams" : [
+                        {
+                            "steelers" : {
+                                "name" : "Pittsburgh Steelers",
+                                "img" : "pkg:/images/nfl/steelers.jpg",
+                                "record" : "11 - 5"
+                            },
+                            "ravens" : {
+                                "name" : "Baltimore Ravens",
+                                "img" : "pkg:/images/nfl/ravens.jpg",
+                                "record" : "8 - 8"
+                            },
+                            "bengals" : {
+                                "name" : "Cincinnati Bengals",
+                                "img" : "pkg:/images/nfl/bengals.jpg",
+                                "record" : "6 - 9 - 1" 
+                            },
+                            "browns" : {
+                                "name" : "Cleveland Browns",
+                                "img" : "pkg:/images/nfl/browns.jpg",
+                                "record" : "1 - 15"
+                            }
+                        }
+                    ]
+                },
+                    "name" : "AFC South",
+                    "afc-south" : {
+                        "teams" : [
+                        {
+                            "texans" : {
+                                "name" : "Houston Texans",
+                                "img" : "pkg:/images/nfl/texans.jpg",
+                                "record" : "9 - 7"
+                            },
+                            "titans" : {
+                                "name" : "Tennesse Titans",
+                                "img" : "pkg:/images/nfl/titans.jpg",
+                                "record" : "9 - 7"
+                            },
+                            "colts" : {
+                                "name" : "Indianapolis Colts",
+                                "img" : "pkg:/images/nfl/colts.jpg",
+                                "record" : "8 - 8" 
+                            },
+                            "jaguars" : {
+                                "name" : "Jacksonville Jaguars",
+                                "img" : "pkg:/images/nfl/jaguars.jpg",
+                                "record" : "3 - 13"
+                            }
+                        }
+                    ]
+                },
+                    "name" : "NFC East",
+                    "nfc-east" : {
+                        "teams" : [
+                        {
+                            "cowboys" : {
+                                "name" : "Dallas Cowboys",
+                                "img" : "pkg:/images/nfl/cowboys.jpg",
+                                "record" : "13 - 3"
+                            },
+                            "giants" : {
+                                "name" : "New York Giants",
+                                "img" : "pkg:/images/nfl/giants.jpg",
+                                "record" : "11 - 5"
+                            },
+                            "redskins" : {
+                                "name" : "Washington Redskins",
+                                "img" : "pkg:/images/nfl/redskins.jpg",
+                                "record" : "8 - 7 - 1" 
+                            },
+                            "eagles" : {
+                                "name" : "Philidelphia Eagles",
+                                "img" : "pkg:/images/nfl/eagles.jpg",
+                                "record" : "7 - 9"
+                            }
+                        }
+                    ]
+                },
+                    "name" : "NFC West",
+                    "nfc-west" : {
+                        "teams" : [
+                        {
+                            "seahawks" : {
+                                "name" : "Seattle Seahawks",
+                                "img" : "pkg:/images/nfl/seahawks.jpg",
+                                "record" : "10 - 5"
+                            },
+                            "cardinals" : {
+                                "name" : "Arizona Cardinals",
+                                "img" : "pkg:/images/nfl/cardinals.jpg",
+                                "record" : "7 - 8"
+                            },
+                            "rams" : {
+                                "name" : "Los Angeles Rams",
+                                "img" : "pkg:/images/nfl/rams.jpg",
+                                "record" : "4 - 12" 
+                            },
+                            "49ers" : {
+                                "name" : "San Fransisco 49ers",
+                                "img" : "pkg:/images/nfl/49ers.jpg",
+                                "record" : "2 - 14"
+                            }
+                        }
+                    ]
+                },
+                    "name" : "NFC North",
+                    "nfc-north" : {
+                        "teams" : [
+                        {
+                            "packers" : {
+                                "name" : "Green Bay Packers",
+                                "img" : "pkg:/images/nfl/packers.jpg",
+                                "record" : "10 - 6"
+                            },
+                            "lions" : {
+                                "name" : "Detroit Lions",
+                                "img" : "pkg:/images/nfl/ravens.jpg",
+                                "record" : "9 - 7"
+                            },
+                            "vikings" : {
+                                "name" : "Minnisota Vikings",
+                                "img" : "pkg:/images/nfl/vikings.jpg",
+                                "record" : "8 - 8" 
+                            },
+                            "bears" : {
+                                "name" : "Chicago Bears",
+                                "img" : "pkg:/images/nfl/bears.jpg",
+                                "record" : "3 - 13"
+                            }
+                        }
+                    ]
+                },
+                    "name" : "NFC South",
+                    "nfc-south" : {
+                        "teams" : [
+                        {
+                            "falcons" : {
+                                "name" : "Atlanta Falcons",
+                                "img" : "pkg:/images/nfl/falcons.jpg",
+                                "record" : "11 - 5"
+                            },
+                            "buccaneers" : {
+                                "name" : "Tampa Bay Buccaneers",
+                                "img" : "pkg:/images/nfl/buccaneers.jpg",
+                                "record" : "9 - 7"
+                            },
+                            "saints" : {
+                                "name" : "New Orleans Saints",
+                                "img" : "pkg:/images/nfl/saints.jpg",
+                                "record" : "8 - 8" 
+                            },
+                            "panthers" : {
+                                "name" : "Carolina Panthers",
+                                "img" : "pkg:/images/nfl/panthers.jpg",
+                                "record" : "6 - 10"
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
