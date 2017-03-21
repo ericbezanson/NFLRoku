@@ -3,7 +3,7 @@
                 {
                     
                     "afc-east" : {
-					  	"name" : "AFC East",
+                        "name" : "AFC East",
                         "teams" : [
                         {
                             "patriots" : {
@@ -31,7 +31,7 @@
                 },                
                     
                     "afc-west" : {
-					  	"name" : "AFC West",
+                        "name" : "AFC West",
                         "teams" : [
                         {
                             "chiefs" : {
@@ -59,7 +59,7 @@
                 },
                     
                     "afc-north" : {
-					  	"name" : "AFC North",
+                        "name" : "AFC North",
                         "teams" : [
                         {
                             "steelers" : {
@@ -87,7 +87,7 @@
                 },
                     
                     "afc-south" : {
-					  	"name" : "AFC South",
+                        "name" : "AFC South",
                         "teams" : [
                         {
                             "texans" : {
@@ -115,7 +115,7 @@
                 },
                     
                     "nfc-east" : {
-					  	"name" : "NFC East",
+                        "name" : "NFC East",
                         "teams" : [
                         {
                             "cowboys" : {
@@ -143,7 +143,7 @@
                 },
                     
                     "nfc-west" : {
-					  	"name" : "NFC West",
+                        "name" : "NFC West",
                         "teams" : [
                         {
                             "seahawks" : {
@@ -171,7 +171,7 @@
                 },
                     
                     "nfc-north" : {
-					  	"name" : "NFC North",
+                        "name" : "NFC North",
                         "teams" : [
                         {
                             "packers" : {
@@ -199,7 +199,7 @@
                 },
                     
                     "nfc-south" : {
-					  	"name" : "NFC South",
+                        "name" : "NFC South",
                         "teams" : [
                         {
                             "falcons" : {
