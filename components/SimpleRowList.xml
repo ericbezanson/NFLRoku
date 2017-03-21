@@ -3,5 +3,5 @@
 
 
 <component name="SimpleRowList" extends="RowList" >
-<script type="text/brightscript" uri="pkg:/components/SimpleRowList.brs"/>
+    <script type="text/brightscript" uri="pkg:/components/SimpleRowList.brs"/>
 </component>
