@@ -17,22 +17,23 @@ function init()
 		m.top.ObserveField("rowItemFocused", "onRowItemFocused")
 end function
 
-Function LoadJSONFile() as void
-		jsonAsString = ReadAsciiFile("pkg:/resources/teams.json")
-		nfl = ParseJSON(jsonAsString)
-End Function
+function LoadJSONFile() as void
+	jsonAsString = ReadAsciiFile("pkg:/resources/teams.json")
+	nfl = ParseJSON(jsonAsString)
+end function
 
 function GetRowListContent() as object
-	'Populate the RowList content here
+	LoadJSONFile()
 	data = CreateObject("roSGNode", "ContentNode")
 
-	for numRows = 1 to 8
+	for each divsion in nfl.division
 		row = data.CreateChild("ContentNode")
-		row.title = "ROW"
-		for i = 0 to 3
+		row.title = division.name
+		for each team in divison.team
 			item = row.CreateChild("SimpleRowListItemData")
-			item.posterUrl = "http://devtools.web.roku.com/samples/images/Landscape_1.jpg"
-			item.labelText = "This is item" + stri(numRows*3 + i)
+			item.posterUrl = team.img
+			item.labelText = team.name
+			item.labelText = team.record
 		end for
 	end for
 return data
