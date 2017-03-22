@@ -5,8 +5,9 @@
 <component name="SimpleRowListItemData" extends="ContentNode">
  
 <interface> 
-  <field id="labelText" type="string" />
   <field id="posterUrl" type="string" />
+  <field id="teamName" type="string" />
+  <field id="teamRecord" type="string" />
 </interface>
 
 </component>

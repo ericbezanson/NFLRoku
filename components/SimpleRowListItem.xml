@@ -10,9 +10,10 @@
 <script type="text/brightscript" uri="pkg:/components/SimpleRowListItem.brs"/>
 
 <children>
-    <LayoutGroup layoutDirection="vert" vertAlignment="top" itemSpacings="20" translation="[0,0]" >
+    <LayoutGroup layoutDirection="vert" vertAlignment="top" itemSpacings="5" translation="[0,0]" >
         <Poster id="itemImage" translation="[0,0]" width="196" height="148" />
-        <Label id="itemText" horizAlign="center" translation="[0,0]" font="font:MediumSystemFont" width="196" height="65" />
+        <Label id="itemText" horizAlign="center" translation="[0,0]" font="font:SmallestSystemFont" width="196" height="32.5" />
+        <Label id="itemText2" horizAlign="center" translation="[0,0]" font="font:SmallestSystemFont" width="196" height="32.5" />
     </LayoutGroup>
 </children>
 
