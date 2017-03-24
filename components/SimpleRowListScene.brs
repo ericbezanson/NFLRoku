@@ -6,9 +6,9 @@ function init()
     videocontent.streamformat = "mp4"
     videocontent.url = "http://a.video.nfl.com/films/2014/nfl_com/nflcom/reg/07/141019_dc_highlights_car_at_gb_2000k.mp4"
 
-    video = m.top.findNode("homeVideo")
-    video.content = videocontent
-    video.control = "play"
+    m.video = m.top.findNode("homeVideo")
+    m.video.content = videocontent
+    m.video.control = "play"
     
     m.scrollDown = m.top.FindNode("scrollDown")
     m.scrollUp = m.top.findNode("scrollUp")
