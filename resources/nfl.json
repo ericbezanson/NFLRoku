@@ -1,8 +1,12 @@
-            {
-                "divisions" : [
-                    
+{
+    "conf" : [
+        {
+            "name" : "AFC",
+            "divisions" : [
                     {
-                        "name" : "AFC East",
+                        "name" : "East",
+                        "img" : "pkg:/images/nfl/AFCE.jpg",
+                        "champion" : "Patriots",
                         "teams" :
                         {
                             "patriots" : {
@@ -29,7 +33,9 @@
                 },                
                     
                 {
-                        "name" : "AFC West",
+                        "name" : "West",
+                        "img" : "pkg:/images/nfl/AFCW.jpg",
+                        "champion" : "Chiefs",
                         "teams" : 
                         {
                             "chiefs" : {
@@ -57,7 +63,9 @@
                 },
                     
             {
-                        "name" : "AFC North",
+                        "name" : "North",
+                        "img" : "pkg:/images/nfl/AFCN.jpg",
+                        "champion" : "Steelers",
                         "teams" : 
                         {
                             "steelers" : {
@@ -85,7 +93,9 @@
                 },
                     
                 {
-                        "name" : "AFC South",
+                        "name" : "South",
+                        "img" : "pkg:/images/nfl/AFCS.jpg",
+                        "champion" : "Texans",
                         "teams" : 
                         {
                             "texans" : {
@@ -110,10 +120,17 @@
                             }
                         }
                     
-                },
+                }
+            ]
+        },
+        {
+            "name" : "NFC",
+            "divisions" : [
                     
-                {
+                    {
                         "name" : "NFC East",
+                        "img" : "pkg:/images/nfl/NFCE.jpg",
+                        "champion" : "Cowboys",
                         "teams" : 
                         {
                             "cowboys" : {
@@ -142,6 +159,8 @@
                     
                     {
                         "name" : "NFC West",
+                        "img" : "pkg:/images/nfl/NFCW.jpg",
+                        "champion" : "Seahawks",
                         "teams" : 
                         {
                             "seahawks" : {
@@ -170,6 +189,8 @@
                     
                    {
                         "name" : "NFC North",
+                        "img" : "pkg:/images/nfl/NFCN.jpg",
+                        "champion" : "Packers",
                         "teams" : 
                         {
                             "packers" : {
@@ -198,6 +219,8 @@
                     
                   {
                         "name" : "NFC South",
+                        "img" : "pkg:/images/nfl/NFCS.jpg",
+                        "champion" : "Falcons",
                         "teams" : 
                         {
                             "falcons" : {
@@ -223,5 +246,7 @@
                         }
                     
                 }
-        ]
-    }
+            ]
+        }
+    ]
+}

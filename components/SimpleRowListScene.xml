@@ -8,7 +8,95 @@
 <script type="text/brightscript" uri="pkg:/components/SimpleRowListScene.brs"/>
 
 
+
 <children>
-    <SimpleRowList id="theRowList" translation="[50,50]" />
-</children>
+    
+    <Video 
+    id ="homeVideo"
+    height="500"
+    width="900"
+    translation="[190, 125]"
+    enableUI="false"
+     />
+
+     <Overhang 
+      title = "ROKU NFL"
+      showOptions = "true"
+      optionsAvailable = "true"
+      logoUri = "http://cdn.fansided.com/wp-content/assets/logos/fansided/icons/nfl.png" />
+
+    <Group id="teamPage" translation="[0, 1080]">
+        <SimpleRowList id="theRowList" translation="[400,0]" />
+        <Poster 
+        id="sidePanel"
+        uri="pkg:/images/NFL/PanelPic.jpg"
+        width="325"
+        height="500"
+        translation="[35,25]"
+        />
+    </Group>
+
+    <ParallelAnimation id = "scrollDown" >
+
+      <Animation 
+        duration = "0.5" 
+        easeFunction = "linear" >
+
+        <FloatFieldInterpolator 
+          key = "[0.0, 1.0]" 
+          keyValue = "[ 900, 0.1 ]" 
+          fieldToInterp = "homeVideo.width" />
+        
+        <FloatFieldInterpolator 
+          key = "[0.0, 1.0]" 
+          keyValue = "[ 500, 0.1 ]" 
+          fieldToInterp = "homeVideo.height" />
+
+      </Animation>
+
+      <Animation 
+        duration = "0.5" 
+        easeFunction = "linear" >
+
+        <Vector2DFieldInterpolator 
+          key = "[0.0, 1.0]" 
+          keyValue = "[ [0,1080], [0,125] ]" 
+          fieldToInterp = "teamPage.translation" />
+
+      </Animation>
+
+    </ParallelAnimation>
+
+    <ParallelAnimation id = "scrollUp" >
+
+      <Animation 
+        duration = "0.5" 
+        easeFunction = "linear" >
+
+        <FloatFieldInterpolator 
+          key = "[0.0, 1.0]" 
+          keyValue = "[ 0.1, 900 ]" 
+          fieldToInterp = "homeVideo.width" />
+        
+        <FloatFieldInterpolator 
+          key = "[0.0, 1.0]" 
+          keyValue = "[ 0.1, 500 ]" 
+          fieldToInterp = "homeVideo.height" />
+
+      </Animation>
+
+      <Animation 
+        duration = "0.5" 
+        easeFunction = "linear" >
+
+        <Vector2DFieldInterpolator 
+          key = "[0.0, 1.0]" 
+          keyValue = "[ [0,125], [0,1080] ]" 
+          fieldToInterp = "teamPage.translation" />
+
+      </Animation>
+
+    </ParallelAnimation>
+
+</children> 
 </component>
