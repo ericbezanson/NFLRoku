@@ -12,22 +12,26 @@
                             "patriots" : {
                                 "name" : "New Endland Patriots",
                                 "logo" : "pkg:/images/nfl/patriots.jpg",
-                                "record" : "14 - 2"
+                                "record" : "14 - 2",
+                                "img" : "pkg:/images/nfl/patriotsFocus.jpg"
                             },
                             "dolphins" : {
                                 "name" : "Miami Dolphins",
                                 "logo" : "pkg:/images/nfl/dolphins.jpg",
-                                "record" : "10 - 6"
+                                "record" : "10 - 6",
+                                "img" : "pkg:/images/nfl/dolphinsFocus.jpg"
                             },
                             "bills" : {
                                 "name" : "Buffalo Bills",
                                 "logo" : "pkg:/images/nfl/bills.jpg",
-                                "record" : "7 - 9" 
+                                "record" : "7 - 9",
+                                "img" : "pkg:/images/nfl/billsFocus.jpg"
                             },
                             "jets" : {
                                 "name" : "New York Jets",
                                 "logo" : "pkg:/images/nfl/jets.jpg",
-                                "record" : "5 - 11"
+                                "record" : "5 - 11",
+                                "img" : "pkg:/images/nfl/jetsFocus.jpg"
                             }
                         }
                 },                
@@ -41,22 +45,26 @@
                             "chiefs" : {
                                 "name" : "Kansas City Chiefs",
                                 "logo" : "pkg:/images/nfl/chiefs.jpg",
-                                "record" : "12 - 4"
+                                "record" : "12 - 4",
+                                "img" : "pkg:/images/nfl/chiefFocus.jpg"
                             },
                             "raiders" : {
                                 "name" : "Oakland Raiders",
                                 "logo" : "pkg:/images/nfl/raiders.jpg",
-                                "record" : "12 - 4"
+                                "record" : "12 - 4",
+                                "img" : "pkg:/images/nfl/raidersFocus.jpg"
                             },
                             "broncos" : {
                                 "name" : "Denver Broncos",
                                 "logo" : "pkg:/images/nfl/broncos.jpg",
-                                "record" : "9 - 7" 
+                                "record" : "9 - 7",
+                                "img" : "pkg:/images/nfl/broncosFocus.jpg"
                             },
                             "chargers" : {
                                 "name" : "San Diego Chargers",
                                 "logo" : "pkg:/images/nfl/chargers.jpg",
-                                "record" : "5 - 11"
+                                "record" : "5 - 11",
+                                "img" : "pkg:/images/nfl/chargersFocus.jpg"
                             }
                         }
                     
@@ -71,22 +79,26 @@
                             "steelers" : {
                                 "name" : "Pittsburgh Steelers",
                                 "logo" : "pkg:/images/nfl/steelers.jpg",
-                                "record" : "11 - 5"
+                                "record" : "11 - 5",
+                                "img" : "pkg:/images/nfl/steelersFocus.jpg"
                             },
                             "ravens" : {
                                 "name" : "Baltimore Ravens",
                                 "logo" : "pkg:/images/nfl/ravens.jpg",
-                                "record" : "8 - 8"
+                                "record" : "8 - 8",
+                                "img" : "pkg:/images/nfl/ravensFocus.jpg"
                             },
                             "bengals" : {
                                 "name" : "Cincinnati Bengals",
                                 "logo" : "pkg:/images/nfl/bengals.jpg",
-                                "record" : "6 - 9 - 1" 
+                                "record" : "6 - 9 - 1",
+                                "img" : "pkg:/images/nfl/bengalsFocus.jpg"
                             },
                             "browns" : {
                                 "name" : "Cleveland Browns",
                                 "logo" : "pkg:/images/nfl/browns.jpg",
-                                "record" : "1 - 15"
+                                "record" : "1 - 15",
+                                "img" : "pkg:/images/nfl/brownsFocus.jpg"
                             }
                         }
                     
@@ -101,22 +113,26 @@
                             "texans" : {
                                 "name" : "Houston Texans",
                                 "logo" : "pkg:/images/nfl/texans.jpg",
-                                "record" : "9 - 7"
+                                "record" : "9 - 7",
+                                "img" : "pkg:/images/nfl/texansFocus.jpg"
                             },
                             "titans" : {
                                 "name" : "Tennesse Titans",
                                 "logo" : "pkg:/images/nfl/titans.jpg",
-                                "record" : "9 - 7"
+                                "record" : "9 - 7",
+                                "img" : "pkg:/images/nfl/titansFocus.jpg"
                             },
                             "colts" : {
                                 "name" : "Indianapolis Colts",
                                 "logo" : "pkg:/images/nfl/colts.jpg",
-                                "record" : "8 - 8" 
+                                "record" : "8 - 8",
+                                "img" : "pkg:/images/nfl/coltsFocus.jpg"
                             },
                             "jaguars" : {
                                 "name" : "Jacksonville Jaguars",
                                 "logo" : "pkg:/images/nfl/jaguars.jpg",
-                                "record" : "3 - 13"
+                                "record" : "3 - 13",
+                                "img" : "pkg:/images/nfl/jaguarsFocus.jpg"
                             }
                         }
                     
@@ -136,22 +152,26 @@
                             "cowboys" : {
                                 "name" : "Dallas Cowboys",
                                 "logo" : "pkg:/images/nfl/cowboys.jpg",
-                                "record" : "13 - 3"
+                                "record" : "13 - 3",
+                                "img" : "pkg:/images/nfl/cowboysFocus.jpg"
                             },
                             "giants" : {
                                 "name" : "New York Giants",
                                 "logo" : "pkg:/images/nfl/giants.jpg",
-                                "record" : "11 - 5"
+                                "record" : "11 - 5",
+                                "img" : "pkg:/images/nfl/giantsFocus.jpg"
                             },
                             "redskins" : {
                                 "name" : "Washington Redskins",
                                 "logo" : "pkg:/images/nfl/redskins.jpg",
-                                "record" : "8 - 7 - 1" 
+                                "record" : "8 - 7 - 1",
+                                "img" : "pkg:/images/nfl/redskinsFocus.jpg"
                             },
                             "eagles" : {
                                 "name" : "Philidelphia Eagles",
                                 "logo" : "pkg:/images/nfl/eagles.jpg",
-                                "record" : "7 - 9"
+                                "record" : "7 - 9",
+                                "img" : "pkg:/images/nfl/eaglesFocus.jpg"
                             }
                         }
                     
@@ -166,22 +186,26 @@
                             "seahawks" : {
                                 "name" : "Seattle Seahawks",
                                 "logo" : "pkg:/images/nfl/seahawks.jpg",
-                                "record" : "10 - 5"
+                                "record" : "10 - 5",
+                                "img" : "pkg:/images/nfl/seahawksFocus.jpg"
                             },
                             "cardinals" : {
                                 "name" : "Arizona Cardinals",
                                 "logo" : "pkg:/images/nfl/cardinals.jpg",
-                                "record" : "7 - 8"
+                                "record" : "7 - 8",
+                                "img" : "pkg:/images/nfl/cardinalsFocus.jpg"
                             },
                             "rams" : {
                                 "name" : "Los Angeles Rams",
                                 "logo" : "pkg:/images/nfl/rams.jpg",
-                                "record" : "4 - 12" 
+                                "record" : "4 - 12",
+                                "img" : "pkg:/images/nfl/ramsFocus.jpg"
                             },
                             "49ers" : {
                                 "name" : "San Fransisco 49ers",
                                 "logo" : "pkg:/images/nfl/49ers.jpg",
-                                "record" : "2 - 14"
+                                "record" : "2 - 14",
+                                "img" : "pkg:/images/nfl/49ersFocus.jpg"
                             }
                         }
                     
@@ -196,22 +220,26 @@
                             "packers" : {
                                 "name" : "Green Bay Packers",
                                 "logo" : "pkg:/images/nfl/packers.jpg",
-                                "record" : "10 - 6"
+                                "record" : "10 - 6",
+                                "img" : "pkg:/images/nfl/packersFocus.jpg"
                             },
                             "lions" : {
                                 "name" : "Detroit Lions",
                                 "logo" : "pkg:/images/nfl/ravens.jpg",
-                                "record" : "9 - 7"
+                                "record" : "9 - 7",
+                                "img" : "pkg:/images/nfl/ravensFocus.jpg"
                             },
                             "vikings" : {
                                 "name" : "Minnisota Vikings",
                                 "logo" : "pkg:/images/nfl/vikings.jpg",
-                                "record" : "8 - 8" 
+                                "record" : "8 - 8",
+                                "img" : "pkg:/images/nfl/vikingsFocus.jpg"
                             },
                             "bears" : {
                                 "name" : "Chicago Bears",
                                 "logo" : "pkg:/images/nfl/bears.jpg",
-                                "record" : "3 - 13"
+                                "record" : "3 - 13",
+                                "img" : "pkg:/images/nfl/bearsFocus.jpg"
                             }
                         }
                     
@@ -226,22 +254,26 @@
                             "falcons" : {
                                 "name" : "Atlanta Falcons",
                                 "logo" : "pkg:/images/nfl/falcons.jpg",
-                                "record" : "11 - 5"
+                                "record" : "11 - 5",
+                                "img" : "pkg:/images/nfl/falconsFocus.jpg"
                             },
                             "buccaneers" : {
                                 "name" : "Tampa Bay Buccaneers",
                                 "logo" : "pkg:/images/nfl/buccaneers.jpg",
-                                "record" : "9 - 7"
+                                "record" : "9 - 7",
+                                "img" : "pkg:/images/nfl/buccaneersFocus.jpg"
                             },
                             "saints" : {
                                 "name" : "New Orleans Saints",
                                 "logo" : "pkg:/images/nfl/saints.jpg",
-                                "record" : "8 - 8" 
+                                "record" : "8 - 8",
+                                "img" : "pkg:/images/nfl/saintsFocus.jpg"
                             },
                             "panthers" : {
                                 "name" : "Carolina Panthers",
                                 "logo" : "pkg:/images/nfl/panthers.jpg",
-                                "record" : "6 - 10"
+                                "record" : "6 - 10",
+                                "img" : "pkg:/images/nfl/panthersFocus.jpg"
                             }
                         }
                     
