@@ -30,13 +30,13 @@ sub GetRowListContent() as object
 		row.title = conf.name
 		for each division in conf.divisions
 			header = row.CreateChild("SimpleRowListItemData")
-			header.posterUrl = division.img
+			header.posterUrl = division.logo
 			header.teamName = "CHAMPION: "
 			header.teamRecord = division.champion
 			for each team in division.teams
 				teamData = division.teams[team]
 				item = row.CreateChild("SimpleRowListItemData")
-				item.posterUrl = teamData.img
+				item.posterUrl = teamData.logo
 				item.teamName = teamData.name
 				item.teamRecord = teamData.record
 			end for

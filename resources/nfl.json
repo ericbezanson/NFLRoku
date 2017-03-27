@@ -5,28 +5,28 @@
             "divisions" : [
                     {
                         "name" : "East",
-                        "img" : "pkg:/images/nfl/AFCE.jpg",
+                        "logo" : "pkg:/images/nfl/AFCE.jpg",
                         "champion" : "Patriots",
                         "teams" :
                         {
                             "patriots" : {
                                 "name" : "New Endland Patriots",
-                                "img" : "pkg:/images/nfl/patriots.jpg",
+                                "logo" : "pkg:/images/nfl/patriots.jpg",
                                 "record" : "14 - 2"
                             },
                             "dolphins" : {
                                 "name" : "Miami Dolphins",
-                                "img" : "pkg:/images/nfl/dolphins.jpg",
+                                "logo" : "pkg:/images/nfl/dolphins.jpg",
                                 "record" : "10 - 6"
                             },
                             "bills" : {
                                 "name" : "Buffalo Bills",
-                                "img" : "pkg:/images/nfl/bills.jpg",
+                                "logo" : "pkg:/images/nfl/bills.jpg",
                                 "record" : "7 - 9" 
                             },
                             "jets" : {
                                 "name" : "New York Jets",
-                                "img" : "pkg:/images/nfl/jets.jpg",
+                                "logo" : "pkg:/images/nfl/jets.jpg",
                                 "record" : "5 - 11"
                             }
                         }
@@ -34,28 +34,28 @@
                     
                 {
                         "name" : "West",
-                        "img" : "pkg:/images/nfl/AFCW.jpg",
+                        "logo" : "pkg:/images/nfl/AFCW.jpg",
                         "champion" : "Chiefs",
                         "teams" : 
                         {
                             "chiefs" : {
                                 "name" : "Kansas City Chiefs",
-                                "img" : "pkg:/images/nfl/chiefs.jpg",
+                                "logo" : "pkg:/images/nfl/chiefs.jpg",
                                 "record" : "12 - 4"
                             },
                             "raiders" : {
                                 "name" : "Oakland Raiders",
-                                "img" : "pkg:/images/nfl/raiders.jpg",
+                                "logo" : "pkg:/images/nfl/raiders.jpg",
                                 "record" : "12 - 4"
                             },
                             "broncos" : {
                                 "name" : "Denver Broncos",
-                                "img" : "pkg:/images/nfl/broncos.jpg",
+                                "logo" : "pkg:/images/nfl/broncos.jpg",
                                 "record" : "9 - 7" 
                             },
                             "chargers" : {
                                 "name" : "San Diego Chargers",
-                                "img" : "pkg:/images/nfl/chargers.jpg",
+                                "logo" : "pkg:/images/nfl/chargers.jpg",
                                 "record" : "5 - 11"
                             }
                         }
@@ -64,28 +64,28 @@
                     
             {
                         "name" : "North",
-                        "img" : "pkg:/images/nfl/AFCN.jpg",
+                        "logo" : "pkg:/images/nfl/AFCN.jpg",
                         "champion" : "Steelers",
                         "teams" : 
                         {
                             "steelers" : {
                                 "name" : "Pittsburgh Steelers",
-                                "img" : "pkg:/images/nfl/steelers.jpg",
+                                "logo" : "pkg:/images/nfl/steelers.jpg",
                                 "record" : "11 - 5"
                             },
                             "ravens" : {
                                 "name" : "Baltimore Ravens",
-                                "img" : "pkg:/images/nfl/ravens.jpg",
+                                "logo" : "pkg:/images/nfl/ravens.jpg",
                                 "record" : "8 - 8"
                             },
                             "bengals" : {
                                 "name" : "Cincinnati Bengals",
-                                "img" : "pkg:/images/nfl/bengals.jpg",
+                                "logo" : "pkg:/images/nfl/bengals.jpg",
                                 "record" : "6 - 9 - 1" 
                             },
                             "browns" : {
                                 "name" : "Cleveland Browns",
-                                "img" : "pkg:/images/nfl/browns.jpg",
+                                "logo" : "pkg:/images/nfl/browns.jpg",
                                 "record" : "1 - 15"
                             }
                         }
@@ -94,28 +94,28 @@
                     
                 {
                         "name" : "South",
-                        "img" : "pkg:/images/nfl/AFCS.jpg",
+                        "logo" : "pkg:/images/nfl/AFCS.jpg",
                         "champion" : "Texans",
                         "teams" : 
                         {
                             "texans" : {
                                 "name" : "Houston Texans",
-                                "img" : "pkg:/images/nfl/texans.jpg",
+                                "logo" : "pkg:/images/nfl/texans.jpg",
                                 "record" : "9 - 7"
                             },
                             "titans" : {
                                 "name" : "Tennesse Titans",
-                                "img" : "pkg:/images/nfl/titans.jpg",
+                                "logo" : "pkg:/images/nfl/titans.jpg",
                                 "record" : "9 - 7"
                             },
                             "colts" : {
                                 "name" : "Indianapolis Colts",
-                                "img" : "pkg:/images/nfl/colts.jpg",
+                                "logo" : "pkg:/images/nfl/colts.jpg",
                                 "record" : "8 - 8" 
                             },
                             "jaguars" : {
                                 "name" : "Jacksonville Jaguars",
-                                "img" : "pkg:/images/nfl/jaguars.jpg",
+                                "logo" : "pkg:/images/nfl/jaguars.jpg",
                                 "record" : "3 - 13"
                             }
                         }
@@ -129,28 +129,28 @@
                     
                     {
                         "name" : "NFC East",
-                        "img" : "pkg:/images/nfl/NFCE.jpg",
+                        "logo" : "pkg:/images/nfl/NFCE.jpg",
                         "champion" : "Cowboys",
                         "teams" : 
                         {
                             "cowboys" : {
                                 "name" : "Dallas Cowboys",
-                                "img" : "pkg:/images/nfl/cowboys.jpg",
+                                "logo" : "pkg:/images/nfl/cowboys.jpg",
                                 "record" : "13 - 3"
                             },
                             "giants" : {
                                 "name" : "New York Giants",
-                                "img" : "pkg:/images/nfl/giants.jpg",
+                                "logo" : "pkg:/images/nfl/giants.jpg",
                                 "record" : "11 - 5"
                             },
                             "redskins" : {
                                 "name" : "Washington Redskins",
-                                "img" : "pkg:/images/nfl/redskins.jpg",
+                                "logo" : "pkg:/images/nfl/redskins.jpg",
                                 "record" : "8 - 7 - 1" 
                             },
                             "eagles" : {
                                 "name" : "Philidelphia Eagles",
-                                "img" : "pkg:/images/nfl/eagles.jpg",
+                                "logo" : "pkg:/images/nfl/eagles.jpg",
                                 "record" : "7 - 9"
                             }
                         }
@@ -159,28 +159,28 @@
                     
                     {
                         "name" : "NFC West",
-                        "img" : "pkg:/images/nfl/NFCW.jpg",
+                        "logo" : "pkg:/images/nfl/NFCW.jpg",
                         "champion" : "Seahawks",
                         "teams" : 
                         {
                             "seahawks" : {
                                 "name" : "Seattle Seahawks",
-                                "img" : "pkg:/images/nfl/seahawks.jpg",
+                                "logo" : "pkg:/images/nfl/seahawks.jpg",
                                 "record" : "10 - 5"
                             },
                             "cardinals" : {
                                 "name" : "Arizona Cardinals",
-                                "img" : "pkg:/images/nfl/cardinals.jpg",
+                                "logo" : "pkg:/images/nfl/cardinals.jpg",
                                 "record" : "7 - 8"
                             },
                             "rams" : {
                                 "name" : "Los Angeles Rams",
-                                "img" : "pkg:/images/nfl/rams.jpg",
+                                "logo" : "pkg:/images/nfl/rams.jpg",
                                 "record" : "4 - 12" 
                             },
                             "49ers" : {
                                 "name" : "San Fransisco 49ers",
-                                "img" : "pkg:/images/nfl/49ers.jpg",
+                                "logo" : "pkg:/images/nfl/49ers.jpg",
                                 "record" : "2 - 14"
                             }
                         }
@@ -189,28 +189,28 @@
                     
                    {
                         "name" : "NFC North",
-                        "img" : "pkg:/images/nfl/NFCN.jpg",
+                        "logo" : "pkg:/images/nfl/NFCN.jpg",
                         "champion" : "Packers",
                         "teams" : 
                         {
                             "packers" : {
                                 "name" : "Green Bay Packers",
-                                "img" : "pkg:/images/nfl/packers.jpg",
+                                "logo" : "pkg:/images/nfl/packers.jpg",
                                 "record" : "10 - 6"
                             },
                             "lions" : {
                                 "name" : "Detroit Lions",
-                                "img" : "pkg:/images/nfl/ravens.jpg",
+                                "logo" : "pkg:/images/nfl/ravens.jpg",
                                 "record" : "9 - 7"
                             },
                             "vikings" : {
                                 "name" : "Minnisota Vikings",
-                                "img" : "pkg:/images/nfl/vikings.jpg",
+                                "logo" : "pkg:/images/nfl/vikings.jpg",
                                 "record" : "8 - 8" 
                             },
                             "bears" : {
                                 "name" : "Chicago Bears",
-                                "img" : "pkg:/images/nfl/bears.jpg",
+                                "logo" : "pkg:/images/nfl/bears.jpg",
                                 "record" : "3 - 13"
                             }
                         }
@@ -219,28 +219,28 @@
                     
                   {
                         "name" : "NFC South",
-                        "img" : "pkg:/images/nfl/NFCS.jpg",
+                        "logo" : "pkg:/images/nfl/NFCS.jpg",
                         "champion" : "Falcons",
                         "teams" : 
                         {
                             "falcons" : {
                                 "name" : "Atlanta Falcons",
-                                "img" : "pkg:/images/nfl/falcons.jpg",
+                                "logo" : "pkg:/images/nfl/falcons.jpg",
                                 "record" : "11 - 5"
                             },
                             "buccaneers" : {
                                 "name" : "Tampa Bay Buccaneers",
-                                "img" : "pkg:/images/nfl/buccaneers.jpg",
+                                "logo" : "pkg:/images/nfl/buccaneers.jpg",
                                 "record" : "9 - 7"
                             },
                             "saints" : {
                                 "name" : "New Orleans Saints",
-                                "img" : "pkg:/images/nfl/saints.jpg",
+                                "logo" : "pkg:/images/nfl/saints.jpg",
                                 "record" : "8 - 8" 
                             },
                             "panthers" : {
                                 "name" : "Carolina Panthers",
-                                "img" : "pkg:/images/nfl/panthers.jpg",
+                                "logo" : "pkg:/images/nfl/panthers.jpg",
                                 "record" : "6 - 10"
                             }
                         }
