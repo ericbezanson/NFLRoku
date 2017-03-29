@@ -2,13 +2,11 @@
 <!--********** Copyright 2016 Roku Corp.  All Rights Reserved. **********-->
 
  
-<component name="SimpleRowListItemData" extends="ContentNode">
+<component name="SidePanelData" extends="ContentNode">
  
 <interface> 
   <field id="posterUrl" type="string" />
   <field id="teamName" type="string" />
-  <field id="teamRecord" type="string" />
-  <field id="panelPic/" type="string" />
 </interface>
 
 </component>

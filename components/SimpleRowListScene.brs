@@ -5,6 +5,7 @@ function init()
     videocontent.title = "Example Video"
     videocontent.streamformat = "mp4"
     videocontent.url = "http://a.video.nfl.com/films/2014/nfl_com/nflcom/reg/07/141019_dc_highlights_car_at_gb_2000k.mp4"
+    m.sidePanel = m.top.findNode("theRowList")
 
     m.video = m.top.findNode("homeVideo")
     m.video.content = videocontent
@@ -15,6 +16,14 @@ function init()
    
 
 end function
+
+sub setSidePanel()
+
+poster = m.sidePanel.getChild()
+print poster
+poster.uri = "pkg:/images/NFL/PatriotsFocus.jpg"
+
+end sub
 
 function onKeyEvent(key as String, press as Boolean) as Boolean
     if press then
@@ -28,4 +37,4 @@ function onKeyEvent(key as String, press as Boolean) as Boolean
         end if
     end if
 return false
-    end function
+end function

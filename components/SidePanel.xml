@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--********** Copyright 2016 Roku Corp.  All Rights Reserved. **********-->
+
+ 
+<component name="SidePanel" extends="Group">
+ 
+<interface> 
+  <field id="itemContent" type="node" onChange="itemContentChanged"/> 
+</interface>
+<script type="text/brightscript" uri="pkg:/components/sidePanel.brs"/>
+
+<children>
+    <LayoutGroup layoutDirection="vert" vertAlignment="top" itemSpacings="5" translation="[0,0]" >
+        <Poster id="itemImage" translation="[35,25]" width="325" height="500" />
+        <Label id="itemText" horizAlign="center" translation="[0,0]" font="font:SmallestSystemFont" width="196" height="32.5" />
+    </LayoutGroup>
+</children>
+
+</component>

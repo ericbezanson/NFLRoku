@@ -16,7 +16,7 @@
     height="500"
     width="900"
     translation="[190, 125]"
-    enableUI="false"
+    enableUI="false"  
      />
 
      <Overhang 
@@ -27,13 +27,7 @@
 
     <Group id="teamPage" translation="[0, 1080]">
         <SimpleRowList id="theRowList" translation="[400,0]" />
-        <Poster 
-        id="sidePanel"
-        uri="pkg:/images/NFL/PanelPic.jpg"
-        width="325"
-        height="500"
-        translation="[35,25]"
-        />
+        <SidePanel id="panelPic" translation="[35,25]" />
     </Group>
 
     <ParallelAnimation id = "scrollDown" >
