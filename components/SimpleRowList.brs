@@ -39,6 +39,8 @@ sub GetRowListContent() as object
 				item.posterUrl = teamData.logo
 				item.teamName = teamData.name
 				item.teamRecord = teamData.record
+				item.panelPic = teamData.img
+				item.caption = teamData.caption
 			end for
 		end for
 	end for
@@ -46,9 +48,17 @@ sub GetRowListContent() as object
 end sub
 
 sub onRowItemFocused() as void
+
 	row = m.top.rowItemFocused[0]
 	col = m.top.rowItemFocused[1]
+	
+	focused = m.top.content.getChild(row).getChild(col)
+	print focused
 
-	print "Row Focused: " + stri(row)
-	print "Col Focused: " + stri(col)
+	panel = CreateObject("roSGNode", "SidePanelData")
+	panel.posterUrl = focused.panelPic
+	panel.caption = focused.caption
+
+	m.global.sidePanel.itemContent = panel
+
 end sub

@@ -8,7 +8,8 @@
   <field id="posterUrl" type="string" />
   <field id="teamName" type="string" />
   <field id="teamRecord" type="string" />
-  <field id="panelPic/" type="string" />
+  <field id="panelPic" type="string" />
+  <field id="caption" type="string" />
 </interface>
 
 </component>

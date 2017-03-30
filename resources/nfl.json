@@ -14,28 +14,28 @@
                                 "logo" : "pkg:/images/nfl/patriots.jpg",
                                 "record" : "14 - 2",
                                 "img" : "pkg:/images/nfl/patriotsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Tom Shady Undefeated Thumb-War Champ, vs Himself"
                             },
                             "dolphins" : {
                                 "name" : "Miami Dolphins",
                                 "logo" : "pkg:/images/nfl/dolphins.jpg",
                                 "record" : "10 - 6",
                                 "img" : "pkg:/images/nfl/dolphinsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Phins Show McCoy, Laces Out Only Applies To Placeholders"
                             },
                             "bills" : {
                                 "name" : "Buffalo Bills",
                                 "logo" : "pkg:/images/nfl/bills.jpg",
                                 "record" : "7 - 9",
                                 "img" : "pkg:/images/nfl/billsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Being a Running Back Is Easy When You Play The Cleveland Pylons"
                             },
                             "jets" : {
                                 "name" : "New York Jets",
                                 "logo" : "pkg:/images/nfl/jets.jpg",
                                 "record" : "5 - 11",
                                 "img" : "pkg:/images/nfl/jetsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Q Makes Up For The Butt Fumble, With The Butt Touchdown!"
                             }
                         }
                 },                
@@ -50,29 +50,29 @@
                                 "name" : "Kansas City Chiefs",
                                 "logo" : "pkg:/images/nfl/chiefs.jpg",
                                 "record" : "12 - 4",
-                                "img" : "pkg:/images/nfl/chiefFocus.jpg",
-                                "caption" : "test"
+                                "img" : "pkg:/images/nfl/chiefsFocus.jpg",
+                                "caption" : "The Overwhelming Panic When The Checkdown Is Unavailable"
                             },
                             "raiders" : {
                                 "name" : "Oakland Raiders",
                                 "logo" : "pkg:/images/nfl/raiders.jpg",
                                 "record" : "12 - 4",
                                 "img" : "pkg:/images/nfl/raidersFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Come On Guys! Its only 651 miles to Vegas!"
                             },
                             "broncos" : {
                                 "name" : "Denver Broncos",
                                 "logo" : "pkg:/images/nfl/broncos.jpg",
                                 "record" : "9 - 7",
                                 "img" : "pkg:/images/nfl/broncosFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "When You Realize You Still Have no QB and Go Back To The Lockeroom"
                             },
                             "chargers" : {
                                 "name" : "San Diego Chargers",
                                 "logo" : "pkg:/images/nfl/chargers.jpg",
                                 "record" : "5 - 11",
                                 "img" : "pkg:/images/nfl/chargersFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Psst, Hey Melvin! Can We Intrest You In a Boat Cruise??"
                             }
                         }
                     
@@ -89,28 +89,28 @@
                                 "logo" : "pkg:/images/nfl/steelers.jpg",
                                 "record" : "11 - 5",
                                 "img" : "pkg:/images/nfl/steelersFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Big Ben Going Through Progressions, Lol JK *Throws to AB* "
                             },
                             "ravens" : {
                                 "name" : "Baltimore Ravens",
                                 "logo" : "pkg:/images/nfl/ravens.jpg",
                                 "record" : "8 - 8",
                                 "img" : "pkg:/images/nfl/ravensFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Mike Wallace Letting It Rip... Or Letting One Rip?"
                             },
                             "bengals" : {
                                 "name" : "Cincinnati Bengals",
                                 "logo" : "pkg:/images/nfl/bengals.jpg",
                                 "record" : "6 - 9 - 1",
                                 "img" : "pkg:/images/nfl/bengalsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Another Successfull One and Done"
                             },
                             "browns" : {
                                 "name" : "Cleveland Browns",
                                 "logo" : "pkg:/images/nfl/browns.jpg",
                                 "record" : "1 - 15",
                                 "img" : "pkg:/images/nfl/brownsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "When You Wave To The Fans, But There Are No Fans In ClevelandS"
                             }
                         }
                     
@@ -127,14 +127,14 @@
                                 "logo" : "pkg:/images/nfl/texans.jpg",
                                 "record" : "9 - 7",
                                 "img" : "pkg:/images/nfl/texansFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "JJ, We Are Gonna Need You To Play QB This Year..."
                             },
                             "titans" : {
                                 "name" : "Tennesse Titans",
                                 "logo" : "pkg:/images/nfl/titans.jpg",
                                 "record" : "9 - 7",
                                 "img" : "pkg:/images/nfl/titansFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Its Mario-Tah not Mario-Tuh"
                             },
                             "colts" : {
                                 "name" : "Indianapolis Colts",
@@ -148,7 +148,7 @@
                                 "logo" : "pkg:/images/nfl/jaguars.jpg",
                                 "record" : "3 - 13",
                                 "img" : "pkg:/images/nfl/jaguarsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Hey Colvin, How Many Wins Are You Gonna Get Next Season?"
                             }
                         }
                     
@@ -170,28 +170,28 @@
                                 "logo" : "pkg:/images/nfl/cowboys.jpg",
                                 "record" : "13 - 3",
                                 "img" : "pkg:/images/nfl/cowboysFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "God, Please God, Release Tony Romo."
                             },
                             "giants" : {
                                 "name" : "New York Giants",
                                 "logo" : "pkg:/images/nfl/giants.jpg",
                                 "record" : "11 - 5",
                                 "img" : "pkg:/images/nfl/giantsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "We Just Need Four More For The Next Miami Trip! Who's In?"
                             },
                             "redskins" : {
                                 "name" : "Washington Redskins",
                                 "logo" : "pkg:/images/nfl/redskins.jpg",
                                 "record" : "8 - 7 - 1",
                                 "img" : "pkg:/images/nfl/redskinsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Hey Kirk, How Do You Like That Franchise Tag?"
                             },
                             "eagles" : {
                                 "name" : "Philidelphia Eagles",
                                 "logo" : "pkg:/images/nfl/eagles.jpg",
                                 "record" : "7 - 9",
                                 "img" : "pkg:/images/nfl/eaglesFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "We Are Winning Now, But Lets Fall Apart And Watch EDP Freakout"
                             }
                         }
                     
@@ -208,28 +208,28 @@
                                 "logo" : "pkg:/images/nfl/seahawks.jpg",
                                 "record" : "10 - 5",
                                 "img" : "pkg:/images/nfl/seahawksFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Yawwwn, Anyone Else Tired of Sherman?"
                             },
                             "cardinals" : {
                                 "name" : "Arizona Cardinals",
                                 "logo" : "pkg:/images/nfl/cardinals.jpg",
                                 "record" : "7 - 8",
                                 "img" : "pkg:/images/nfl/cardinalsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Any of You Two Guys Know Anyone That Can Play QB? Its Almost The Playoffs"
                             },
                             "rams" : {
                                 "name" : "Los Angeles Rams",
                                 "logo" : "pkg:/images/nfl/rams.jpg",
                                 "record" : "4 - 12",
                                 "img" : "pkg:/images/nfl/ramsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "TGIII Fridays"
                             },
                             "49ers" : {
                                 "name" : "San Fransisco 49ers",
                                 "logo" : "pkg:/images/nfl/49ers.jpg",
                                 "record" : "2 - 14",
                                 "img" : "pkg:/images/nfl/49ersFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "1st Touchdown Of The Year Celebration... In Week 17"
                             }
                         }
                     
@@ -246,28 +246,28 @@
                                 "logo" : "pkg:/images/nfl/packers.jpg",
                                 "record" : "10 - 6",
                                 "img" : "pkg:/images/nfl/packersFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Not a hailmarry, but still worth the belt"
                             },
                             "lions" : {
                                 "name" : "Detroit Lions",
-                                "logo" : "pkg:/images/nfl/ravens.jpg",
+                                "logo" : "pkg:/images/nfl/lions.jpg",
                                 "record" : "9 - 7",
-                                "img" : "pkg:/images/nfl/ravensFocus.jpg",
-                                "caption" : "test"
+                                "img" : "pkg:/images/nfl/lionsFocus.jpg",
+                                "caption" : "Golden Tate on His Way To Collect His Paycheck"
                             },
                             "vikings" : {
                                 "name" : "Minnisota Vikings",
                                 "logo" : "pkg:/images/nfl/vikings.jpg",
                                 "record" : "8 - 8",
                                 "img" : "pkg:/images/nfl/vikingsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Live Photo of AP at Home Playing Dress Up"
                             },
                             "bears" : {
                                 "name" : "Chicago Bears",
                                 "logo" : "pkg:/images/nfl/bears.jpg",
                                 "record" : "3 - 13",
                                 "img" : "pkg:/images/nfl/bearsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "On A Scale Of 1 - 5, How Overpaid Is Jay Cutler?"
                             }
                         }
                     
@@ -284,28 +284,28 @@
                                 "logo" : "pkg:/images/nfl/falcons.jpg",
                                 "record" : "11 - 5",
                                 "img" : "pkg:/images/nfl/falconsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Celebrating The SuperBowl Win At HalfTime, Cant Lose Right?"
                             },
                             "buccaneers" : {
                                 "name" : "Tampa Bay Buccaneers",
                                 "logo" : "pkg:/images/nfl/buccaneers.jpg",
                                 "record" : "9 - 7",
                                 "img" : "pkg:/images/nfl/buccaneersFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "When You Gotta Run The Play But You See A 'Free Crab Legs' Sign"
                             },
                             "saints" : {
                                 "name" : "New Orleans Saints",
                                 "logo" : "pkg:/images/nfl/saints.jpg",
                                 "record" : "8 - 8",
                                 "img" : "pkg:/images/nfl/saintsFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "Daydreaming About 2010"
                             },
                             "panthers" : {
                                 "name" : "Carolina Panthers",
                                 "logo" : "pkg:/images/nfl/panthers.jpg",
                                 "record" : "6 - 10",
                                 "img" : "pkg:/images/nfl/panthersFocus.jpg",
-                                "caption" : "test"
+                                "caption" : "'Up In Flames', The 2016 Panthers Team Motto"
                             }
                         }
                     
